@@ -1,0 +1,5 @@
+python-dotenv   #secret credential
+aiogram         #telegram development
+openai          # LLM hosted
+
+
